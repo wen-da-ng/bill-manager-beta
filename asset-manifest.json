@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bill-manager-beta/static/css/main.4c291f98.css",
+    "main.js": "/bill-manager-beta/static/js/main.d3c3f361.js",
+    "static/media/avatar_jerry.png": "/bill-manager-beta/static/media/avatar_jerry.e27a32a86eddd52e32e7.png",
+    "static/media/avatar_fikhri.png": "/bill-manager-beta/static/media/avatar_fikhri.c3609548ffbe14b89676.png",
+    "static/media/avatar_wenda.png": "/bill-manager-beta/static/media/avatar_wenda.8cff5e98e895c70ea321.png",
+    "static/media/avatar_seng.png": "/bill-manager-beta/static/media/avatar_seng.8d176f1a53eced991d80.png",
+    "static/media/banner.png": "/bill-manager-beta/static/media/banner.80db2a895510dd2719aa.png",
+    "static/media/avatar4.png": "/bill-manager-beta/static/media/avatar4.54d5c1de851c273b2cd9.png",
+    "static/media/Project3.png": "/bill-manager-beta/static/media/Project3.378b532af038bf47559c.png",
+    "static/media/Project2.png": "/bill-manager-beta/static/media/Project2.90f702366422b52138b1.png",
+    "static/media/Project1.png": "/bill-manager-beta/static/media/Project1.d5952144f76e2cb9e5d6.png",
+    "index.html": "/bill-manager-beta/index.html",
+    "main.4c291f98.css.map": "/bill-manager-beta/static/css/main.4c291f98.css.map",
+    "main.d3c3f361.js.map": "/bill-manager-beta/static/js/main.d3c3f361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c291f98.css",
+    "static/js/main.d3c3f361.js"
+  ]
+}
