@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bill-manager-beta/static/css/main.4c291f98.css",
-    "main.js": "/bill-manager-beta/static/js/main.8163c746.js",
+    "main.js": "/bill-manager-beta/static/js/main.97ea3f32.js",
     "static/media/avatar_jerry.png": "/bill-manager-beta/static/media/avatar_jerry.e27a32a86eddd52e32e7.png",
     "static/media/avatar_fikhri.png": "/bill-manager-beta/static/media/avatar_fikhri.c3609548ffbe14b89676.png",
     "static/media/avatar_wenda.png": "/bill-manager-beta/static/media/avatar_wenda.8cff5e98e895c70ea321.png",
@@ -13,10 +13,10 @@
     "static/media/Project1.png": "/bill-manager-beta/static/media/Project1.d5952144f76e2cb9e5d6.png",
     "index.html": "/bill-manager-beta/index.html",
     "main.4c291f98.css.map": "/bill-manager-beta/static/css/main.4c291f98.css.map",
-    "main.8163c746.js.map": "/bill-manager-beta/static/js/main.8163c746.js.map"
+    "main.97ea3f32.js.map": "/bill-manager-beta/static/js/main.97ea3f32.js.map"
   },
   "entrypoints": [
     "static/css/main.4c291f98.css",
-    "static/js/main.8163c746.js"
+    "static/js/main.97ea3f32.js"
   ]
 }
